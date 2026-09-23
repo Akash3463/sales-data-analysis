@@ -2,7 +2,15 @@
 
 ## Project Overview
 
-This project analyzes sales data to identify revenue trends, product performance, and regional sales insights.
+This project analyzes sales transaction data to identify revenue trends, product performance, and regional sales insights.
+
+## Objectives
+
+- Analyze total revenue and quantity sold
+- Identify top-performing products
+- Compare regional sales performance
+- Analyze monthly revenue trends
+- Practice Python and SQL-based data analysis
 
 ## Tools & Technologies
 
@@ -11,6 +19,7 @@ This project analyzes sales data to identify revenue trends, product performance
 - SQL
 - Power BI
 - Excel
+- GitHub
 
 ## Key Analysis
 
@@ -22,16 +31,12 @@ This project analyzes sales data to identify revenue trends, product performance
 
 ## Project Structure
 
+```text
 sales-data-analysis/
 ├── README.md
 ├── data/
+│   └── sales_data.csv
 ├── python/
+│   └── sales_analysis.py
 └── sql/
-
-## Skills Demonstrated
-
-- Data Cleaning
-- Data Analysis
-- SQL Queries
-- Data Visualization
-- Business Reporting
+    └── sales_queries.sql
